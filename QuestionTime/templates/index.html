@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load render_bundle from webpack_loader %}
+
+    {% block content %}
+       <noscript>
+        <strong>
+            "Ci spiace, ma pare che tu non abbia abilitato Javascript sul tuo browser. 
+            Per visualizzare il contenuto di questa pagina attivalo dalle impostazioni."
+        </strong>
+       </noscript>
+        <div id="app">
+
+        </div>
+        {% render_bundle 'app' %}
+    {% endblock %}

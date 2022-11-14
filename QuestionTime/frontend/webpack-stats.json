@@ -1,0 +1,344 @@
+{
+  "status": "done",
+  "assets": {
+    "bundle.js": {
+      "name": "bundle.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\bundle.js",
+      "publicPath": "http://127.0.0.1:8080/bundle.js"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\favicon.ico",
+      "publicPath": "http://127.0.0.1:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\index.html",
+      "publicPath": "http://127.0.0.1:8080/index.html"
+    },
+    "app.163d5701896c2c66.hot-update.js": {
+      "name": "app.163d5701896c2c66.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.163d5701896c2c66.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.163d5701896c2c66.hot-update.js"
+    },
+    "app.163d5701896c2c66.hot-update.json": {
+      "name": "app.163d5701896c2c66.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.163d5701896c2c66.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.163d5701896c2c66.hot-update.json"
+    },
+    "app.a36a6315b70a2faa.hot-update.js": {
+      "name": "app.a36a6315b70a2faa.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.a36a6315b70a2faa.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.a36a6315b70a2faa.hot-update.js"
+    },
+    "app.a36a6315b70a2faa.hot-update.json": {
+      "name": "app.a36a6315b70a2faa.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.a36a6315b70a2faa.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.a36a6315b70a2faa.hot-update.json"
+    },
+    "app.d854fff847b40425.hot-update.js": {
+      "name": "app.d854fff847b40425.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d854fff847b40425.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.d854fff847b40425.hot-update.js"
+    },
+    "app.d854fff847b40425.hot-update.json": {
+      "name": "app.d854fff847b40425.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d854fff847b40425.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.d854fff847b40425.hot-update.json"
+    },
+    "app.0073bd6f89642969.hot-update.js": {
+      "name": "app.0073bd6f89642969.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0073bd6f89642969.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.0073bd6f89642969.hot-update.js"
+    },
+    "app.0073bd6f89642969.hot-update.json": {
+      "name": "app.0073bd6f89642969.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0073bd6f89642969.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.0073bd6f89642969.hot-update.json"
+    },
+    "app.4516af0ceaf7bdbe.hot-update.js": {
+      "name": "app.4516af0ceaf7bdbe.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4516af0ceaf7bdbe.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.4516af0ceaf7bdbe.hot-update.js"
+    },
+    "app.4516af0ceaf7bdbe.hot-update.json": {
+      "name": "app.4516af0ceaf7bdbe.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4516af0ceaf7bdbe.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.4516af0ceaf7bdbe.hot-update.json"
+    },
+    "app.0897b3816a2e2745.hot-update.js": {
+      "name": "app.0897b3816a2e2745.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0897b3816a2e2745.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.0897b3816a2e2745.hot-update.js"
+    },
+    "app.0897b3816a2e2745.hot-update.json": {
+      "name": "app.0897b3816a2e2745.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0897b3816a2e2745.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.0897b3816a2e2745.hot-update.json"
+    },
+    "img/gattina-triste.9870a3b7.webp": {
+      "name": "img/gattina-triste.9870a3b7.webp",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\img\\gattina-triste.9870a3b7.webp",
+      "publicPath": "http://127.0.0.1:8080/img/gattina-triste.9870a3b7.webp"
+    },
+    "app.6fcf370709ff8ec4.hot-update.js": {
+      "name": "app.6fcf370709ff8ec4.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.6fcf370709ff8ec4.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.6fcf370709ff8ec4.hot-update.js"
+    },
+    "app.6fcf370709ff8ec4.hot-update.json": {
+      "name": "app.6fcf370709ff8ec4.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.6fcf370709ff8ec4.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.6fcf370709ff8ec4.hot-update.json"
+    },
+    "app.f66a439a15ff101e.hot-update.js": {
+      "name": "app.f66a439a15ff101e.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.f66a439a15ff101e.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.f66a439a15ff101e.hot-update.js"
+    },
+    "app.f66a439a15ff101e.hot-update.json": {
+      "name": "app.f66a439a15ff101e.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.f66a439a15ff101e.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.f66a439a15ff101e.hot-update.json"
+    },
+    "app.918ed4e8f1ca7247.hot-update.js": {
+      "name": "app.918ed4e8f1ca7247.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.918ed4e8f1ca7247.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.918ed4e8f1ca7247.hot-update.js"
+    },
+    "app.918ed4e8f1ca7247.hot-update.json": {
+      "name": "app.918ed4e8f1ca7247.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.918ed4e8f1ca7247.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.918ed4e8f1ca7247.hot-update.json"
+    },
+    "app.ca4048f41e99ce08.hot-update.js": {
+      "name": "app.ca4048f41e99ce08.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.ca4048f41e99ce08.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.ca4048f41e99ce08.hot-update.js"
+    },
+    "app.ca4048f41e99ce08.hot-update.json": {
+      "name": "app.ca4048f41e99ce08.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.ca4048f41e99ce08.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.ca4048f41e99ce08.hot-update.json"
+    },
+    "app.2080028e6de1ebe6.hot-update.js": {
+      "name": "app.2080028e6de1ebe6.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.2080028e6de1ebe6.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.2080028e6de1ebe6.hot-update.js"
+    },
+    "app.2080028e6de1ebe6.hot-update.json": {
+      "name": "app.2080028e6de1ebe6.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.2080028e6de1ebe6.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.2080028e6de1ebe6.hot-update.json"
+    },
+    "app.9d2850d98d2bc7c5.hot-update.js": {
+      "name": "app.9d2850d98d2bc7c5.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.9d2850d98d2bc7c5.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.9d2850d98d2bc7c5.hot-update.js"
+    },
+    "app.9d2850d98d2bc7c5.hot-update.json": {
+      "name": "app.9d2850d98d2bc7c5.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.9d2850d98d2bc7c5.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.9d2850d98d2bc7c5.hot-update.json"
+    },
+    "app.33692d3537dc0578.hot-update.js": {
+      "name": "app.33692d3537dc0578.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.33692d3537dc0578.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.33692d3537dc0578.hot-update.js"
+    },
+    "app.33692d3537dc0578.hot-update.json": {
+      "name": "app.33692d3537dc0578.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.33692d3537dc0578.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.33692d3537dc0578.hot-update.json"
+    },
+    "app.47cd58243c36b64c.hot-update.js": {
+      "name": "app.47cd58243c36b64c.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.47cd58243c36b64c.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.47cd58243c36b64c.hot-update.js"
+    },
+    "app.47cd58243c36b64c.hot-update.json": {
+      "name": "app.47cd58243c36b64c.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.47cd58243c36b64c.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.47cd58243c36b64c.hot-update.json"
+    },
+    "app.4d55d071e2fdcec7.hot-update.js": {
+      "name": "app.4d55d071e2fdcec7.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4d55d071e2fdcec7.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.4d55d071e2fdcec7.hot-update.js"
+    },
+    "app.4d55d071e2fdcec7.hot-update.json": {
+      "name": "app.4d55d071e2fdcec7.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4d55d071e2fdcec7.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.4d55d071e2fdcec7.hot-update.json"
+    },
+    "app.0c0eb6ba7fe424a3.hot-update.js": {
+      "name": "app.0c0eb6ba7fe424a3.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0c0eb6ba7fe424a3.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.0c0eb6ba7fe424a3.hot-update.js"
+    },
+    "app.0c0eb6ba7fe424a3.hot-update.json": {
+      "name": "app.0c0eb6ba7fe424a3.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.0c0eb6ba7fe424a3.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.0c0eb6ba7fe424a3.hot-update.json"
+    },
+    "app.d6e217604db8c561.hot-update.js": {
+      "name": "app.d6e217604db8c561.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d6e217604db8c561.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.d6e217604db8c561.hot-update.js"
+    },
+    "app.d6e217604db8c561.hot-update.json": {
+      "name": "app.d6e217604db8c561.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d6e217604db8c561.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.d6e217604db8c561.hot-update.json"
+    },
+    "app.c16c6b10c9ce2ef3.hot-update.js": {
+      "name": "app.c16c6b10c9ce2ef3.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c16c6b10c9ce2ef3.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.c16c6b10c9ce2ef3.hot-update.js"
+    },
+    "app.c16c6b10c9ce2ef3.hot-update.json": {
+      "name": "app.c16c6b10c9ce2ef3.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c16c6b10c9ce2ef3.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.c16c6b10c9ce2ef3.hot-update.json"
+    },
+    "app.b9e30103efd4b12f.hot-update.js": {
+      "name": "app.b9e30103efd4b12f.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.b9e30103efd4b12f.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b9e30103efd4b12f.hot-update.js"
+    },
+    "app.b9e30103efd4b12f.hot-update.json": {
+      "name": "app.b9e30103efd4b12f.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.b9e30103efd4b12f.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.b9e30103efd4b12f.hot-update.json"
+    },
+    "app.57810d3158bc713e.hot-update.js": {
+      "name": "app.57810d3158bc713e.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.57810d3158bc713e.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.57810d3158bc713e.hot-update.js"
+    },
+    "app.57810d3158bc713e.hot-update.json": {
+      "name": "app.57810d3158bc713e.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.57810d3158bc713e.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.57810d3158bc713e.hot-update.json"
+    },
+    "app.ed746f289431b11e.hot-update.js": {
+      "name": "app.ed746f289431b11e.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.ed746f289431b11e.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.ed746f289431b11e.hot-update.js"
+    },
+    "app.ed746f289431b11e.hot-update.json": {
+      "name": "app.ed746f289431b11e.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.ed746f289431b11e.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.ed746f289431b11e.hot-update.json"
+    },
+    "app.4df9897ee03acdbe.hot-update.js": {
+      "name": "app.4df9897ee03acdbe.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4df9897ee03acdbe.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.4df9897ee03acdbe.hot-update.js"
+    },
+    "app.4df9897ee03acdbe.hot-update.json": {
+      "name": "app.4df9897ee03acdbe.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.4df9897ee03acdbe.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.4df9897ee03acdbe.hot-update.json"
+    },
+    "app.675a38c949fbe0d3.hot-update.js": {
+      "name": "app.675a38c949fbe0d3.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.675a38c949fbe0d3.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.675a38c949fbe0d3.hot-update.js"
+    },
+    "app.675a38c949fbe0d3.hot-update.json": {
+      "name": "app.675a38c949fbe0d3.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.675a38c949fbe0d3.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.675a38c949fbe0d3.hot-update.json"
+    },
+    "app.6449c169c2b0b7ab.hot-update.js": {
+      "name": "app.6449c169c2b0b7ab.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.6449c169c2b0b7ab.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.6449c169c2b0b7ab.hot-update.js"
+    },
+    "app.6449c169c2b0b7ab.hot-update.json": {
+      "name": "app.6449c169c2b0b7ab.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.6449c169c2b0b7ab.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.6449c169c2b0b7ab.hot-update.json"
+    },
+    "app.b5a0aff039f418ed.hot-update.js": {
+      "name": "app.b5a0aff039f418ed.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.b5a0aff039f418ed.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.b5a0aff039f418ed.hot-update.js"
+    },
+    "app.b5a0aff039f418ed.hot-update.json": {
+      "name": "app.b5a0aff039f418ed.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.b5a0aff039f418ed.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.b5a0aff039f418ed.hot-update.json"
+    },
+    "app.5a889257e87e88ee.hot-update.js": {
+      "name": "app.5a889257e87e88ee.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.5a889257e87e88ee.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.5a889257e87e88ee.hot-update.js"
+    },
+    "app.5a889257e87e88ee.hot-update.json": {
+      "name": "app.5a889257e87e88ee.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.5a889257e87e88ee.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.5a889257e87e88ee.hot-update.json"
+    },
+    "app.c3e9e353b5180209.hot-update.js": {
+      "name": "app.c3e9e353b5180209.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c3e9e353b5180209.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.c3e9e353b5180209.hot-update.js"
+    },
+    "app.c3e9e353b5180209.hot-update.json": {
+      "name": "app.c3e9e353b5180209.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c3e9e353b5180209.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.c3e9e353b5180209.hot-update.json"
+    },
+    "app.f099eb3e6ff393e0.hot-update.js": {
+      "name": "app.f099eb3e6ff393e0.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.f099eb3e6ff393e0.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.f099eb3e6ff393e0.hot-update.js"
+    },
+    "app.f099eb3e6ff393e0.hot-update.json": {
+      "name": "app.f099eb3e6ff393e0.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.f099eb3e6ff393e0.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.f099eb3e6ff393e0.hot-update.json"
+    },
+    "app.63cfa9091d55cd9c.hot-update.js": {
+      "name": "app.63cfa9091d55cd9c.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.63cfa9091d55cd9c.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.63cfa9091d55cd9c.hot-update.js"
+    },
+    "app.63cfa9091d55cd9c.hot-update.json": {
+      "name": "app.63cfa9091d55cd9c.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.63cfa9091d55cd9c.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.63cfa9091d55cd9c.hot-update.json"
+    },
+    "app.d1355d1bcc7902d3.hot-update.js": {
+      "name": "app.d1355d1bcc7902d3.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d1355d1bcc7902d3.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.d1355d1bcc7902d3.hot-update.js"
+    },
+    "app.d1355d1bcc7902d3.hot-update.json": {
+      "name": "app.d1355d1bcc7902d3.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.d1355d1bcc7902d3.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.d1355d1bcc7902d3.hot-update.json"
+    },
+    "app.c7fa7afa7fc3764c.hot-update.js": {
+      "name": "app.c7fa7afa7fc3764c.hot-update.js",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c7fa7afa7fc3764c.hot-update.js",
+      "publicPath": "http://127.0.0.1:8080/app.c7fa7afa7fc3764c.hot-update.js"
+    },
+    "app.c7fa7afa7fc3764c.hot-update.json": {
+      "name": "app.c7fa7afa7fc3764c.hot-update.json",
+      "path": "C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\dist\\app.c7fa7afa7fc3764c.hot-update.json",
+      "publicPath": "http://127.0.0.1:8080/app.c7fa7afa7fc3764c.hot-update.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "bundle.js",
+      "app.c7fa7afa7fc3764c.hot-update.js"
+    ]
+  },
+  "publicPath": "http://127.0.0.1:8080/",
+  "error": "ModuleNotFoundError",
+  "message": "Module not found: Error: Can't resolve './views/NotFound.vue' in 'C:\\Users\\Utente\\Desktop\\Progetti_Django\\FINAL-PROJECT\\QuestionTime\\frontend\\src\\router'"
+}
